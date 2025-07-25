@@ -2,7 +2,7 @@
 Hi, I'm Jake. Full-stack web developer and MSP owner based in the UK.
 
 ### Skills
-- Full stack web (frontend + backend)
+- Full stack web
 - System admin & infrastructure
 - Cybersecurity
 

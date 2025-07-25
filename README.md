@@ -8,7 +8,7 @@ Hi, I'm Jake. Full-stack web developer and MSP owner based in the UK.
 ### Contact
 - **Email:** 
 
-
+<br/>
 
 
 <!--![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyjake&show_icons=true&theme=gruvbox&cache_seconds=3600)-->

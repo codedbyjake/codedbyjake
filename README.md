@@ -5,8 +5,9 @@ Hi, I'm Jake. Full-stack web developer and MSP owner based in the UK.
 - Full stack web (frontend + backend)
 - System admin & infrastructure
 - Cybersecurity
-  
-- Working with:
+
+
+### Working with:
   - [Consumer Rights Wiki](https://github.com/Consumer-Rights-Wiki-Org)
   - [WonderCMS](https://github.com/WonderCMS)
 

@@ -1,5 +1,5 @@
 ### Intro
-Hi, I'm Jake. Full-stack web developer, MSP owner, and fractional CTO based in the UK. I'm available for select projects, contact me below.
+Hi, I'm Jake. Full-stack web developer, MSP owner, and fractional CTO based in the UK.
 ### Working with:
   - [Consumer Rights Wiki](https://github.com/Consumer-Rights-Wiki-Org)
   - [WonderCMS](https://github.com/WonderCMS)

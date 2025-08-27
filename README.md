@@ -1,5 +1,5 @@
 ### Intro
-Hi, I’m Jake! Full-stack web developer with over a decade of experience, and owner of a Managed IT services company based in the UK.
+Hi, I’m Jake! Full-stack web developer, and owner of a Managed IT services company based in the UK.
 ### Working with:
   - [Consumer Rights Wiki](https://github.com/Consumer-Rights-Wiki-Org)
   - [WonderCMS](https://github.com/WonderCMS)
